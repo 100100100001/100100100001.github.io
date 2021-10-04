@@ -19,35 +19,36 @@
 <li><a href="https://next.itellyou.cn/">仅供学习使用</a></li>
 </ul>
 <p>配置教程：</p>
-<ul>
-<li><a href="http://www.360doc.com/content/16/1025/17/7174935_601296776.shtml">win10使用教程（电脑windows系统基础使用教程快速入门手册图文详解）</a>(<strong>转载</strong>自 <a href="http://www.360doc.com/userhome/7174935">@tiandi7818</a>)</li>
-</ul>
+<blockquote>
+<p><a href="http://www.360doc.com/content/16/1025/17/7174935_601296776.shtml">win10使用教程（电脑windows系统基础使用教程快速入门手册图文详解）</a>(<strong>转载</strong>自 <a href="http://www.360doc.com/userhome/7174935">@tiandi7818</a>)</p>
+</blockquote>
 <h3 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h3><hr>
 <p>下载通道:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/">官方网站</a></p>
 <p>配置教程:</p>
-<ul>
-<li> <a href="https://www.runoob.com/git/git-install-setup.html">RUNOOB</a>（较<strong>专业详细</strong>、不适合<strong>无基础</strong>新手）</li>
-<li><a href="https://www.jb51.net/article/199788.htm">Git下载、安装与环境配置的详细教程</a>（适合大部分新手）（<strong>转载</strong>自 @糖葫芦的小黑屋）</li>
-</ul>
+<blockquote>
+<p> <a href="https://www.runoob.com/git/git-install-setup.html">RUNOOB</a>（较<strong>专业详细</strong>、不适合<strong>无基础</strong>新手）<br><a href="https://www.jb51.net/article/199788.htm">Git下载、安装与环境配置的详细教程</a>（适合大部分新手）（<strong>转载</strong>自 @糖葫芦的小黑屋）</p>
+</blockquote>
 <h3 id="node-js"><a href="#node-js" class="headerlink" title="node.js"></a>node.js</h3><hr>
 <p>下载通道：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nodejs.org/zh-cn/">官方网站</a></p>
 <p>配置教程：</p>
-<ul>
-<li><a href="https://www.runoob.com/nodejs/nodejs-tutorial.html">RUNOOB</a></li>
-<li><a href="https://www.jianshu.com/p/13f45e24b1de">Nodejs安装及环境配置</a>（适合大部分新手）（<strong>转载</strong>自 <a href="https://www.jianshu.com/u/a90d99a7d12a">@ 月半小夜曲_</a>）</li>
-</ul>
+<blockquote>
+<p><a href="https://www.runoob.com/nodejs/nodejs-tutorial.html">RUNOOB</a><br><a href="https://www.jianshu.com/p/13f45e24b1de">Nodejs安装及环境配置</a>（适合大部分新手）（<strong>转载</strong>自 <a href="https://www.jianshu.com/u/a90d99a7d12a">@ 月半小夜曲_</a>）</p>
+</blockquote>
 <h3 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h3><hr>
 <p>配置教程：</p>
-<ul>
-<li><a href="https://zhuanlan.zhihu.com/p/144722437">Hexo建站手册（详细教程）</a>（<strong>转载</strong>自 <a href="https://www.zhihu.com/people/an-zeng-ping">@ 安大虎</a>）</li>
-</ul>
+<blockquote>
+<p><a href="https://zhuanlan.zhihu.com/p/144722437">Hexo建站手册（详细教程）</a>（<strong>转载</strong>自 <a href="https://www.zhihu.com/people/an-zeng-ping">@ 安大虎</a>）</p>
+</blockquote>
 <h1 id="对了，你还需要配置你个人的GitHub-Pages存放你的静态网页"><a href="#对了，你还需要配置你个人的GitHub-Pages存放你的静态网页" class="headerlink" title="对了，你还需要配置你个人的GitHub Pages存放你的静态网页"></a><strong>对了，你还需要配置你个人的<a href="https://pages.github.com/">GitHub Pages</a>存放你的静态网页</strong></h1><h1 id="GitHub-Pages"><a href="#GitHub-Pages" class="headerlink" title="GitHub Pages"></a><strong>GitHub Pages</strong></h1><p>首先，你需要一个有效的GitHub账号使用GitHub Pages服务。</p>
 <p>配置教程： <a href="https://www.jianshu.com/p/f92de10405cd">有关如何注册GitHub账号</a> （<strong>转载</strong>自 <a href="https://www.jianshu.com/u/7f78cc86c4ca">@ 李哈哈_000b</a>）</p>
 <p>然后你需要启用你的GitHub Pages服务</p>
 <p>配置教程： <a href="https://www.cnblogs.com/jackyroc/p/7681938.html">我是如何利用Github Pages搭建起我的博客，细数一路的坑</a> （<strong>转载</strong>自 <a href="https://www.cnblogs.com/jackyroc/">@ JackyRoc</a>）</p>
 <hr>
 <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看到这里，你应该或许大概率不可能不会独立建立的自己的博客了吧。</strong></p>
-<h1 id="ENJOY-IT-amp-KEEP-TRYING"><a href="#ENJOY-IT-amp-KEEP-TRYING" class="headerlink" title="ENJOY IT &amp; KEEP TRYING"></a><strong>ENJOY IT &amp; KEEP TRYING</strong></h1>]]></content>
+<h1 id="ENJOY-IT-amp-KEEP-TRYING"><a href="#ENJOY-IT-amp-KEEP-TRYING" class="headerlink" title="ENJOY IT &amp; KEEP TRYING"></a><strong>ENJOY IT &amp; KEEP TRYING</strong></h1><h1 id="THE-END"><a href="#THE-END" class="headerlink" title="THE END"></a>THE END</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">WAR IS PEACE</span><br><span class="line">FREEDOM IS SLAVERY</span><br><span class="line">IGNORANCE IS STRENGTH</span><br></pre></td></tr></table></figure>
+
+
+]]></content>
       <categories>
         <category>教程向</category>
       </categories>
