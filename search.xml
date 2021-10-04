@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>如何搭建自己的第一个博客</title>
+    <title>如何搭建自己的博客</title>
     <url>/2021/10/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在机缘巧合之下，我在2021年的国庆节正式开始搭建起我的第一个博客。其实这个想法从一年前就已经出现了，但由于学业原因，实在无法将身心投入到这个对我本人来说的<strong>“大项目”</strong>当中。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下文将会简略的介绍一下我搭建博客的过程，由于<strong>作者信息技术科目很菜</strong>，所以下文将会有<strong>大量转载文章</strong>出现，这些文章在创建博客时给我不少启发，在此表示<strong>感谢</strong>。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就尚且先把这篇文章当作是教程合集，希望能对大家有所帮助。<strong>♥♥♥♥♥</strong></p>
-<h1 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h1><hr>
+<hr>
 <p><strong>提示：在阅读本文章之前，推荐学习<a href="https://www.w3school.com.cn/html/html5_intro.asp">HTML基础教程</a>，获得更好的阅读体验</strong></p>
 <p>若要进行博客搭建，至少需要以下准备</p>
 <p><strong>以下</strong>为适用于<strong>本文章</strong>的配置</p>
@@ -44,7 +44,8 @@
 <h1 id="对了，你还需要配置你个人的GitHub-Pages存放你的静态网页"><a href="#对了，你还需要配置你个人的GitHub-Pages存放你的静态网页" class="headerlink" title="对了，你还需要配置你个人的GitHub Pages存放你的静态网页"></a><strong>对了，你还需要配置你个人的<a href="https://pages.github.com/">GitHub Pages</a>存放你的静态网页</strong></h1><h1 id="GitHub-Pages"><a href="#GitHub-Pages" class="headerlink" title="GitHub Pages"></a><strong>GitHub Pages</strong></h1><p>首先，你需要一个有效的GitHub账号使用GitHub Pages服务。</p>
 <p>配置教程： <a href="https://www.jianshu.com/p/f92de10405cd">有关如何注册GitHub账号</a> （<strong>转载</strong>自 <a href="https://www.jianshu.com/u/7f78cc86c4ca">@ 李哈哈_000b</a>）</p>
 <p>然后你需要启用你的GitHub Pages服务</p>
-]]></content>
+<p>配置教程： <a href="https://www.cnblogs.com/jackyroc/p/7681938.html">我是如何利用Github Pages搭建起我的博客，细数一路的坑</a> （<strong>转载</strong>自 <a href="https://www.cnblogs.com/jackyroc/">@ JackyRoc</a>）</p>
+<h1 id="然后这篇文章就结束了。。。。"><a href="#然后这篇文章就结束了。。。。" class="headerlink" title="然后这篇文章就结束了。。。。"></a><strong>然后这篇文章就结束了。。。。</strong></h1>]]></content>
       <categories>
         <category>教程向</category>
       </categories>
